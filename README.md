@@ -37,7 +37,7 @@ Key capabilities include:
 
 <div align="center">
   <img src="static/week7_telegram_and_agentic_ai.png" alt="Week 7 Telegram and Agentic AI Architecture" width="800">
-  <p><em>Complete Week 7 architecture showing Telegram bot integration with the agentic RAG system</em></p>
+  <p><em>Complete architecture showing Telegram bot integration with the agentic RAG system</em></p>
 </div>
 
 ### LangGraph Agentic RAG Workflow
@@ -94,7 +94,7 @@ curl http://localhost:8000/api/v1/health
 ## **🏗️ Architecture Overview**
 
 <p align="center">
-  <img src="static/week1_infra_setup.png" alt="Week 1 Infrastructure Setup" width="800">
+  <img src="static/week1_infra_setup.png" alt="Infrastructure Setup" width="800">
 </p>
 
 **Infrastructure Components:**
@@ -116,7 +116,7 @@ curl http://localhost:8000/api/v1/health
 ### **🏗️ Architecture Overview**
 
 <p align="center">
-  <img src="static/week2_data_ingestion_flow.png" alt="Week 2 Data Ingestion Architecture" width="800">
+  <img src="static/week2_data_ingestion_flow.png" alt="Data Ingestion Architecture" width="800">
 </p>
 
 **Data Pipeline Components:**
@@ -140,7 +140,7 @@ curl http://localhost:8000/api/v1/health
 ### **🏗️ Architecture Overview**
 
 <p align="center">
-  <img src="static/week3_opensearch_flow.png" alt="Week 3 OpenSearch Flow Architecture" width="800">
+  <img src="static/week3_opensearch_flow.png" alt=" OpenSearch Flow Architecture" width="800">
 </p>
 
 **Search Infrastructure Components:**
@@ -163,7 +163,7 @@ curl http://localhost:8000/api/v1/health
 ### **🏗️ Architecture Overview**
 
 <p align="center">
-  <img src="static/week4_hybrid_opensearch.png" alt="Week 4 Hybrid Search Architecture" width="800">
+  <img src="static/week4_hybrid_opensearch.png" alt="Hybrid Search Architecture" width="800">
 </p>
 
 **Hybrid Search Infrastructure Components:**
@@ -186,7 +186,7 @@ curl http://localhost:8000/api/v1/health
 ### **🏗️ Architecture Overview**
 
 <p align="center">
-  <img src="static/week5_complete_rag.png" alt="Week 5 Complete RAG System Architecture" width="900">
+  <img src="static/week5_complete_rag.png" alt="Complete RAG System Architecture" width="900">
 </p>
 
 **Complete RAG Infrastructure Components:**
@@ -210,7 +210,7 @@ curl http://localhost:8000/api/v1/health
 ### **🏗️ Architecture Overview**
 
 <p align="center">
-  <img src="static/week6_monitoring_and_caching.png" alt="Week 6 Monitoring & Caching Architecture" width="900">
+  <img src="static/week6_monitoring_and_caching.png" alt="Monitoring & Caching Architecture" width="900">
 </p>
 
 **Production Infrastructure Components:**
@@ -235,7 +235,7 @@ curl http://localhost:8000/api/v1/health
 ### **🏗️ Architecture Overview**
 
 <p align="center">
-  <img src="static/week7_telegram_and_agentic_ai.png" alt="Week 7 Agentic RAG & Telegram Architecture" width="900">
+  <img src="static/week7_telegram_and_agentic_ai.png" alt="Agentic RAG & Telegram Architecture" width="900">
 </p>
 
 **Agentic RAG Infrastructure Components:**
